@@ -1,19 +1,20 @@
 # Converter
 
-Convert XML to JSON
+Converts XML to JSON, plain and simple.
 
-### prerequisite
-- you need to install below library using pip
+### Prerequisite
+-Install xmltodict
 - $ pip install xmltodict
  
 ### Description
-- It coverts any input.xml file into output.json.
+- This script converts a file named input.xml to output.json.
 
-### How to run the script
+### How to Use
 
-- First rename your file to input.xml 
+- Rename your file to input.xml 
 - Execute `python3 converter.py`
-- The Output will be shown below as output.json
+- Or, if running in an IDE, simply run converter.py with your input.xml in the same folder.
 
 ## *Author Name*
-Azhad Ghufran
+
+Chris Morrison
