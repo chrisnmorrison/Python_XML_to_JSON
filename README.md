@@ -3,7 +3,7 @@
 Converts XML to JSON, plain and simple.
 
 ### Prerequisite
--Install xmltodict
+- Install xmltodict
 - $ pip install xmltodict
  
 ### Description
