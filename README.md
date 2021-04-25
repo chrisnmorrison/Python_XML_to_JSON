@@ -4,8 +4,11 @@ Converts XML to JSON, plain and simple.
 
 ### Prerequisite
 - Install xmltodict
-- $ pip install xmltodict
- 
+
+```
+$ pip install xmltodict
+```
+
 ### Description
 - This script converts a file named input.xml to output.json.
 
